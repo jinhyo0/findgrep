@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# this line added
+
 usage()
 {
 	local script_name=$(basename "$0")
