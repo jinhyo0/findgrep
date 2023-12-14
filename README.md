@@ -1,2 +1,2 @@
 # findgrep
-- ny first repo
+- my first repo
